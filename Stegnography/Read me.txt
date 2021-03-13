@@ -1,0 +1,3 @@
+this program is used to hide data inside of a image.
+
+please run the main.py file.
