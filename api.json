@@ -1,14 +1,18 @@
-{    
-    "count": 5,
-    "songs": [
-        "Naa Ready thaan varava","Master the blaster","Mookuthi Amman","Vilayadu Mangatha","Jilla Jilla Jilla"
-    ],
-    "link": [
-        "https://isaidl.top/files/Tamil%20Ringtones/Leo/Naa%20Ready%20Dhaan%20Varava.mp3",
-        "https://isaidl.top/data/Tamil%202020%20Songs/Master%20(Tamil)/128/Master%20the%20Blaster.mp3",
-        "https://isaidl.top/data/Tamil%202020%20Songs/Mookuthi%20Amman/128/Paarthene%20(Amman%20Song).mp3",
-        "https://isaidl.top/data/Tamil%20HQ%20Mp3%20Songs/Mankatha/128/Vilayadu%20Mangatha.mp3",
-        "https://isaidl.top/data/Tamil%20HQ%20Mp3%20Songs/Jilla/128/Verasa%20Pogayile.mp3"
-    ]
-
-}
+[
+    {
+        "song": "Naa Ready thaan varava",
+        "link": "https://isaidl.top/files/Tamil%20Ringtones/Leo/Naa%20Ready%20Dhaan%20Varava.mp3",
+    },
+    {
+        "song": "Master the blaster",
+        "link": "https://isaidl.top/data/Tamil%202020%20Songs/Master%20(Tamil)/128/Master%20the%20Blaster.mp3",
+    },
+    {
+        "song": "Mookuthi Amman",
+        "link": "https://isaidl.top/data/Tamil%202020%20Songs/Mookuthi%20Amman/128/Paarthene%20(Amman%20Song).mp3",
+    },
+    {
+        "song": "Vilayadu Mangatha",
+        "link": "https://isaidl.top/data/Tamil%20HQ%20Mp3%20Songs/Mankatha/128/Vilayadu%20Mangatha.mp3",
+    }
+]
